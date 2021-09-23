@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Senior iOS Developer interested in mobile security.
+### Hi there 👋 I'm Senior iOS Developer interested in mobile security.
 
 # 🌱 Skills I'm currently working on
 - iOS modularization
@@ -19,3 +19,24 @@
   - Added Objection tutorials [PR_1](https://github.com/OWASP/owasp-mstg/pull/1764) [PR_2](https://github.com/OWASP/owasp-mstg/pull/1789)
 - I have added iOS Swift support to [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
   - [My PRs](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pulls?q=is%3Apr+author%3Akarolpiateknet+is%3Aclosed)
+
+# My skills
+
+| Skill | Rating   | Comment |
+| ----- | -------- | --------|
+| Swift | ⭐⭐⭐⭐⭐ | |
+| Objective-C | ⭐⭐ | Refactored old code in Objective-C code and fixed bugs |
+| Architecture patterns | ⭐⭐⭐⭐⭐ | Worked with MVVM, MVC, VIPER, Coordinators, structural, behavioral, creational patterns and many others. |
+| SOLID principles | ⭐⭐⭐⭐⭐ | |
+| iOS Security | ⭐⭐⭐⭐⭐ | |
+| Android security | ⭐⭐ | |
+| ARC | ⭐⭐⭐⭐⭐ | |
+| Autolayout | ⭐⭐⭐⭐⭐ | |
+| UIKit | ⭐⭐⭐⭐⭐ | |
+| CI  | ⭐⭐⭐⭐ | Used Bitrise and Jenkins in work |
+| Unit Tests | ⭐⭐⭐⭐⭐ | |
+| Quick/Nimble | ⭐⭐⭐⭐ | |
+| RxSwift | ⭐⭐⭐⭐ | |
+| UITests | ⭐⭐⭐ | |
+| Git | ⭐⭐⭐⭐⭐ | |
+| Git flow | ⭐⭐⭐⭐⭐ | |
