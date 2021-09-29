@@ -8,7 +8,7 @@ In my experience I worked on multiple projects like:
 - Banking application for managing and uploading financial documents
 - FinTech app offering loans
 - IoT smart home app
-and more.
+- and more
 
 You can see more details about my experience in [my LinkedIn Profile](https://www.linkedin.com/in/karolpiatek/)
 
