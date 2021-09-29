@@ -1,4 +1,16 @@
-### Hi there 👋 I'm Senior iOS Developer interested in mobile security.
+### Hi there 👋
+
+I'm Senior iOS developer with over 4 years of experience in iOS development.
+I'm highly interested in mobile security and constantly working on those skills.
+
+In my experience I worked on multiple projects like:
+- Big and complex app that supports thousands of shop owners in Poland
+- Banking application for managing and uploading financial documents
+- FinTech app offering loans
+- IoT smart home app
+and more.
+
+You can see more details about my experience in [my LinkedIn Profile](https://www.linkedin.com/in/karolpiatek/)
 
 # 🌱 Skills I'm currently working on
 - iOS modularization
