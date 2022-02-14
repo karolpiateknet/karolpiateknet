@@ -31,6 +31,8 @@ You can see more details about my experience in [my LinkedIn Profile](https://ww
   - Added Objection tutorials [PR_1](https://github.com/OWASP/owasp-mstg/pull/1764) [PR_2](https://github.com/OWASP/owasp-mstg/pull/1789)
 - I have added iOS Swift support to [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
   - [My PRs](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pulls?q=is%3Apr+author%3Akarolpiateknet+is%3Aclosed)
+- [Mobile Security Checklist](https://github.com/netguru/mobile-security-checklist)
+  - [My PRs](https://github.com/netguru/mobile-security-checklist/pulls?q=is%3Apr+author%3Akarolpiateknet)
 
 # My skills
 
