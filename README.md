@@ -54,3 +54,7 @@ You can see more details about my experience in [my LinkedIn Profile](https://ww
 | UITests | ⭐⭐⭐ | |
 | Git | ⭐⭐⭐⭐⭐ | |
 | Git flow | ⭐⭐⭐⭐⭐ | |
+
+# CodeWars profile
+
+![https://www.codewars.com/users/karolpiatek](https://www.codewars.com/users/karolpiatek/badges/large)
