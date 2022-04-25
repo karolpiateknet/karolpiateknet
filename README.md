@@ -21,6 +21,7 @@ You can see more details about my experience in [my LinkedIn Profile](https://ww
 - [Hard-coded Tokens, Keys and Credentials in Mobile Apps](https://www.netguru.com/blog/hardcoded-keys-storage-mobile-app)
 - [Certificate pinning in iOS](https://www.netguru.com/codestories/certificate-pinning-in-ios)
 - [iOS Security analysis with MobSF](https://www.netguru.com/codestories/ios-security-analysis-with-mobsf)
+- [Mobile Security Group](https://www.netguru.com/blog/mobile-security-group)
 
 # 👷 My contributions
 
